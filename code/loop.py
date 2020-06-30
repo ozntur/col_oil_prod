@@ -1,7 +1,7 @@
 import geopandas as gpd
 import pandas as pd
 
-ds = gpd.read_file('/Users/ozanturkes/coding/GitHub/prod_data/data/WELLS_SHP/Wells.shp')
+ds = gpd.read_file('data/WELLS_SHP/Wells.shp')
 print('asd')
 #print('done')
 print(ds.API[ds.Facil_Stat == 'PR'])

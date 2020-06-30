@@ -3,13 +3,13 @@
 import geopandas as gpd
 print('reading shp file data')
 print()
-my_df = gpd.read_file('/Users/ozanturkes/coding/GitHub/prod_data/data/WELLS_SHP/Wells.shp')
+my_df = gpd.read_file('data/WELLS_SHP/Wells.shp')
 
 print('data is ready, printing shp file data')
 print()
 print(my_df[my_df.Facil_Stat == 'PR'])
 
-a = '001'        ##my_df.API_County[my_df.API_County == 001]    ##county number
+a = '001'     ##county number
 b = '05299'   ## well number
 
 ###### read them by using pandas #####
