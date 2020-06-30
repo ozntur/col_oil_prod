@@ -1,7 +1,7 @@
 # col_oil_prod
 Colorado Oil production - downloading data from website using pandas and plotting using matplotlib
 
-Jupyter notebook 'jupyternotebook/one.ipynb' explains all codes and steps. Additionally, you can find the necessary code in the folder 'code'. 
+Jupyter notebook 'jupyternotebook/one.ipynb' explains all codes and steps. Jupyter notebook can be a little slow in the beginning! Additionally, you can find the necessary code in the folder 'code'. 
 
 Plotting time series using oil production data is significant. Oil production data is usually found in state websites and they are scattered in tables. In this repo Colorado Oil & Gas Conservation Commission, oil production data were used to plot time series.
 
