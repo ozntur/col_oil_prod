@@ -13,7 +13,7 @@ Plotting time series using oil production data is significant. Oil production da
 
 This database was a huge one. I masked producing wells and put a 'break' at some point to show how this code can run. One can edit the code for his/her purpose (for instance plotting oil production that has a mean value of 'X' bbl in last 2 years etc..). 
 
-Please let me know if you are having trouble with the repo OR if you have any advice/suggestions. 
+Please let me know if you are having trouble with the repo OR if you have any advice/suggestions. (ozan.turkes@gmail.com)
 
 
 
