@@ -15,6 +15,5 @@ This database was a huge one. I masked producing wells and put a 'break' at some
 
 Please let me know if you are having trouble with the repo OR if you have any advice/suggestions. 
 
-ozan.turkes@gmail.com
 
 
