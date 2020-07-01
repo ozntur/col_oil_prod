@@ -1,4 +1,6 @@
 ###### read shp file with geopandas ######
+# READ SHP FILE --> GET WELL API
+# USE API TO DOWNLOAD OIL PRODUCTION DATA --> PLOT THE DATA
 
 import geopandas as gpd
 print('reading shp file data')

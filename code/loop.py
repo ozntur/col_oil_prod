@@ -1,3 +1,4 @@
+# USEFUL LOOP TO DOWNLOAD DATA 
 import geopandas as gpd
 import pandas as pd
 
