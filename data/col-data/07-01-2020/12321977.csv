@@ -1,0 +1,6 @@
+,First of Month,Days Produced,Well Status,API County,API Sequence,API Sidetrack,Formation,BOM Inventory,Oil Produced,Oil Sold,Oil Adjustment,EOM Inventory,Oil Gravity,Gas Produced,Gas Flared,Gas Used,Gas Shrinkage,Gas Sold,Gas BTU,Gas Tubing Pressure,Gas Casing Pressure,Water Volume,Water Tubing Pressure,Water Casing Pressure,Water Disp Code
+0,2005-03-01,,DA,123,21977,0,J SAND,,,,,,,,,,,,,,,,,,
+1,2005-02-01,,DA,123,21977,0,J SAND,,,,,,,,,,,,,,,,,,
+2,2005-01-01,,TA,123,21977,0,J SAND,,,,,,,,,,,,,,,,,,
+3,2004-12-01,,TA,123,21977,0,J SAND,,,,,,,,,,,,,,,,,,
+4,2004-11-01,,DG,123,21977,0,J SAND,,,,,,,,,,,,,,,,,,

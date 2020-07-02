@@ -1,0 +1,11 @@
+,First of Month,Days Produced,Well Status,API County,API Sequence,API Sidetrack,Formation,BOM Inventory,Oil Produced,Oil Sold,Oil Adjustment,EOM Inventory,Oil Gravity,Gas Produced,Gas Flared,Gas Used,Gas Shrinkage,Gas Sold,Gas BTU,Gas Tubing Pressure,Gas Casing Pressure,Water Volume,Water Tubing Pressure,Water Casing Pressure,Water Disp Code
+0,2020-04-01,30,PR,45,21898,0,WILLIAMS FORK-OHIO CREEK-CAMEO,,136.0,136.0,,,77.3,113672.0,11.0,,,113661.0,1040.0,,,13030.0,,,C
+1,2020-03-01,31,PR,45,21898,0,WILLIAMS FORK-OHIO CREEK-CAMEO,,162.0,162.0,,,77.3,162883.0,7.0,,,162876.0,1037.0,,,13467.0,,,C
+2,2020-02-01,29,PR,45,21898,0,NOT COMPLETED,,111.0,111.0,,,77.3,135147.0,8.0,,,135139.0,994.0,,,9086.0,,,C
+3,2020-01-01,2,PR,45,21898,0,NOT COMPLETED,,,,,,,314.0,,,,314.0,1020.0,,,18.0,,,C
+4,2019-12-01,0,WO,45,21898,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,
+5,2019-11-01,0,DG,45,21898,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,
+6,2019-10-01,0,DG,45,21898,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,
+7,2019-09-01,0,DG,45,21898,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,
+8,2019-08-01,0,DG,45,21898,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,
+9,2019-07-01,0,SI,45,21898,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,

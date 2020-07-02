@@ -1,0 +1,10 @@
+,First of Month,Days Produced,Well Status,API County,API Sequence,API Sidetrack,Formation,BOM Inventory,Oil Produced,Oil Sold,Oil Adjustment,EOM Inventory,Oil Gravity,Gas Produced,Gas Flared,Gas Used,Gas Shrinkage,Gas Sold,Gas BTU,Gas Tubing Pressure,Gas Casing Pressure,Water Volume,Water Tubing Pressure,Water Casing Pressure,Water Disp Code
+0,2020-01-01,,PA,17,7809,0,LANSING B,,,,,,,,,,,,,,,,,,
+1,2020-01-01,,PA,17,7809,0,SHAWNEE,,,,,,,,,,,,,,,,,,
+2,2020-01-01,,PA,17,7809,0,SPERGEN,,,,,,,,,,,,,,,,,,
+3,2019-12-01,,WO,17,7809,0,LANSING B,,,,,,,,,,,,,,,,,,
+4,2019-12-01,,WO,17,7809,0,SHAWNEE,,,,,,,,,,,,,,,,,,
+5,2019-12-01,,WO,17,7809,0,SPERGEN,,,,,,,,,,,,,,,,,,
+6,2019-11-01,,DG,17,7809,0,SPERGEN,,,,,,,,,,,,,,,,,,
+7,2019-11-01,,DG,17,7809,0,SHAWNEE,,,,,,,,,,,,,,,,,,
+8,2019-11-01,,DG,17,7809,0,LANSING B,,,,,,,,,,,,,,,,,,

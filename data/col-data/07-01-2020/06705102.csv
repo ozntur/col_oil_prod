@@ -1,0 +1,8 @@
+,First of Month,Days Produced,Well Status,API County,API Sequence,API Sidetrack,Formation,BOM Inventory,Oil Produced,Oil Sold,Oil Adjustment,EOM Inventory,Oil Gravity,Gas Produced,Gas Flared,Gas Used,Gas Shrinkage,Gas Sold,Gas BTU,Gas Tubing Pressure,Gas Casing Pressure,Water Volume,Water Tubing Pressure,Water Casing Pressure,Water Disp Code
+0,1999-07-01,,TA,67,5102,0,MESAVERDE,,,,,,,,,,,,,0.0,0.0,,0.0,0.0,
+1,1999-06-01,,SI,67,5102,0,MESAVERDE,,,,,,,,,,,,,0.0,0.0,,0.0,0.0,
+2,1999-05-01,0.0,SI,67,5102,0,MESAVERDE,,,,,,,,,,,,,,,,,,
+3,1999-04-01,0.0,SI,67,5102,0,MESAVERDE,,,,,,,,,,,,,,,,,,
+4,1999-03-01,0.0,SI,67,5102,0,MESAVERDE,,,,,,,,,,,,,,,,,,
+5,1999-02-01,0.0,SI,67,5102,0,MESAVERDE,,,,,,,,,,,,,,,,,,
+6,1999-01-01,0.0,SI,67,5102,0,MESAVERDE,,,,,,,,,,,,,,,,,,

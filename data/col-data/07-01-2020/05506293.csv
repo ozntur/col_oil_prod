@@ -1,0 +1,9 @@
+,First of Month,Days Produced,Well Status,API County,API Sequence,API Sidetrack,Formation,BOM Inventory,Oil Produced,Oil Sold,Oil Adjustment,EOM Inventory,Oil Gravity,Gas Produced,Gas Flared,Gas Used,Gas Shrinkage,Gas Sold,Gas BTU,Gas Tubing Pressure,Gas Casing Pressure,Water Volume,Water Tubing Pressure,Water Casing Pressure,Water Disp Code
+0,2005-07-01,,DA,55,6293,0,PIERRE,,,,,,,,,,,,,,,,,,
+1,2005-06-01,,DA,55,6293,0,PIERRE,,,,,,,,,,,,,,,,,,
+2,2005-05-01,,DA,55,6293,0,PIERRE,,,,,,,,,,,,,,,,,,
+3,2005-04-01,,DA,55,6293,0,PIERRE,,,,,,,,,,,,,,,,,,
+4,2005-03-01,,DA,55,6293,0,PIERRE,,,,,,,,,,,,,,,,,,
+5,2005-02-01,,DA,55,6293,0,PIERRE,,,,,,,,,,,,,,,,,,
+6,2005-01-01,,DA,55,6293,0,PIERRE,,,,,,,,,,,,,,,,,,
+7,2004-12-01,1.0,PR,55,6293,0,PIERRE,,,,,,,,,,,,,,,200.0,,,P

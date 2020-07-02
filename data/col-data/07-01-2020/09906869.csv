@@ -1,0 +1,10 @@
+,First of Month,Days Produced,Well Status,API County,API Sequence,API Sidetrack,Formation,BOM Inventory,Oil Produced,Oil Sold,Oil Adjustment,EOM Inventory,Oil Gravity,Gas Produced,Gas Flared,Gas Used,Gas Shrinkage,Gas Sold,Gas BTU,Gas Tubing Pressure,Gas Casing Pressure,Water Volume,Water Tubing Pressure,Water Casing Pressure,Water Disp Code
+0,2001-11-01,,DA,99,6869,0,GLORIETA,,,,,,,,,,,,,,,,,,
+1,2001-10-01,,SI,99,6869,0,GLORIETA,,,,,,,,,,,,,,,,,,
+2,2001-09-01,,SI,99,6869,0,GLORIETA,,,,,,,,,,,,,,,,,,
+3,2001-08-01,,SI,99,6869,0,GLORIETA,,,,,,,,,,,,,,,,,,
+4,2001-07-01,,SI,99,6869,0,GLORIETA,,,,,,,,,,,,,,,,,,
+5,2001-07-01,,DA,99,6869,0,RED CAVE,,,,,,,,,,,,,,,,,,
+6,2001-06-01,,DG,99,6869,0,GLORIETA,,,,,,,,,,,,,,,,,,
+7,2001-06-01,,DA,99,6869,0,RED CAVE,,,,,,,,,,,,,,,,,,
+8,2001-05-01,,DG,99,6869,0,RED CAVE,,,,,,,,,,,,,,,,,,

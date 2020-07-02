@@ -1,0 +1,11 @@
+,First of Month,Days Produced,Well Status,API County,API Sequence,API Sidetrack,Formation,BOM Inventory,Oil Produced,Oil Sold,Oil Adjustment,EOM Inventory,Oil Gravity,Gas Produced,Gas Flared,Gas Used,Gas Shrinkage,Gas Sold,Gas BTU,Gas Tubing Pressure,Gas Casing Pressure,Water Volume,Water Tubing Pressure,Water Casing Pressure,Water Disp Code
+0,2015-08-01,,PA,73,6271,0,CHEROKEE,,,,,,,,,,,,,,,,,,
+1,2015-07-01,,PA,73,6271,0,CHEROKEE,,,,,,,,,,,,,,,,,,
+2,2015-06-01,,PA,73,6271,0,CHEROKEE,,,,,,,,,,,,,,,,,,
+3,2015-05-01,,WO,73,6271,0,CHEROKEE,,,,,,,,,,,,,,,,,,
+4,2015-04-01,,WO,73,6271,0,CHEROKEE,,,,,,,,,,,,,,,,,,
+5,2015-03-01,,WO,73,6271,0,CHEROKEE,,,,,,,,,,,,,,,,,,
+6,2015-02-01,,WO,73,6271,0,MARMATON,,,,,,,,,,,,,,,,,,
+7,2015-01-01,,WO,73,6271,0,MARMATON,,,,,,,,,,,,,,,,,,
+8,2014-12-01,,DG,73,6271,0,CHEROKEE,,,,,,,,,,,,,,,,,,
+9,2014-12-01,,DG,73,6271,0,MARMATON,,,,,,,,,,,,,,,,,,

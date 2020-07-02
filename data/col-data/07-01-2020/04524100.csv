@@ -1,0 +1,8 @@
+,First of Month,Days Produced,Well Status,API County,API Sequence,API Sidetrack,Formation,BOM Inventory,Oil Produced,Oil Sold,Oil Adjustment,EOM Inventory,Oil Gravity,Gas Produced,Gas Flared,Gas Used,Gas Shrinkage,Gas Sold,Gas BTU,Gas Tubing Pressure,Gas Casing Pressure,Water Volume,Water Tubing Pressure,Water Casing Pressure,Water Disp Code
+0,2020-04-01,30.0,PR,45,24100,0,WILLIAMS FORK - CAMEO,2.0,26.0,26.0,,2.0,53.8,26295.0,,3.0,,26292.0,1061.0,,,,,,
+1,2020-03-01,31.0,PR,45,24100,0,WILLIAMS FORK - CAMEO,2.0,32.0,32.0,,2.0,54.2,31205.0,,4.0,,31201.0,1061.0,,,,,,
+2,2020-02-01,29.0,PR,45,24100,0,WILLIAMS FORK - CAMEO,4.0,41.0,43.0,,2.0,54.3,33420.0,,3.0,,33417.0,1061.0,,,,,,
+3,2020-01-01,31.0,PR,45,24100,0,WILLIAMS FORK - CAMEO,1.0,47.0,44.0,,4.0,54.2,42576.0,,4.0,,42572.0,1081.0,,,,,,
+4,2019-12-01,26.0,PR,45,24100,0,WILLIAMS FORK - CAMEO,,20.0,19.0,,1.0,53.3,20608.0,,3.0,,20605.0,1086.0,,,,,,
+5,2019-11-01,,WO,45,24100,0,WILLIAMS FORK - CAMEO,,,,,,,,,,,,,,,,,,
+6,2019-10-01,,DG,45,24100,0,WILLIAMS FORK - CAMEO,,,,,,,,,,,,,,,,,,

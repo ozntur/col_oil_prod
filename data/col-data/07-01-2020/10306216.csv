@@ -1,0 +1,8 @@
+,First of Month,Days Produced,Well Status,API County,API Sequence,API Sidetrack,Formation,BOM Inventory,Oil Produced,Oil Sold,Oil Adjustment,EOM Inventory,Oil Gravity,Gas Produced,Gas Flared,Gas Used,Gas Shrinkage,Gas Sold,Gas BTU,Gas Tubing Pressure,Gas Casing Pressure,Water Volume,Water Tubing Pressure,Water Casing Pressure,Water Disp Code
+0,1999-07-01,,SI,103,6216,0,WEBER,,,,,,,,,,,,,,,,,,
+1,1999-06-01,,SI,103,6216,0,WEBER,,,,,,,,,,,,,,,,,,
+2,1999-05-01,3.0,PR,103,6216,0,WEBER,1.0,9.0,10.0,,,32.6,13.0,,1.0,12.0,,,,,1351.0,,,I
+3,1999-04-01,27.0,PR,103,6216,0,WEBER,10.0,28.0,37.0,,1.0,33.9,109.0,,,109.0,,,,,12408.0,,,I
+4,1999-03-01,31.0,PR,103,6216,0,WEBER,2.0,279.0,271.0,,10.0,34.2,136.0,1.0,8.0,127.0,,,,,18789.0,,,I
+5,1999-02-01,20.0,PR,103,6216,0,WEBER,3.0,40.0,41.0,,2.0,34.4,75.0,1.0,19.0,55.0,,,,,13528.0,,,I
+6,1999-01-01,31.0,PR,103,6216,0,WEBER,2.0,96.0,95.0,,3.0,34.2,242.0,1.0,132.0,109.0,,,,,26396.0,,,I

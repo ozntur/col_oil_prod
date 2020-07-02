@@ -1,0 +1,10 @@
+,First of Month,Days Produced,Well Status,API County,API Sequence,API Sidetrack,Formation,BOM Inventory,Oil Produced,Oil Sold,Oil Adjustment,EOM Inventory,Oil Gravity,Gas Produced,Gas Flared,Gas Used,Gas Shrinkage,Gas Sold,Gas BTU,Gas Tubing Pressure,Gas Casing Pressure,Water Volume,Water Tubing Pressure,Water Casing Pressure,Water Disp Code
+0,2010-09-01,,PA,45,18074,0,WILLIAMS FORK - CAMEO,,,,,,,,,,,,,,,,,,
+1,2010-08-01,,PA,45,18074,0,WILLIAMS FORK - CAMEO,,,,,,,,,,,,,,,,,,
+2,2010-07-01,,PA,45,18074,0,WILLIAMS FORK - CAMEO,,,,,,,,,,,,,,,,,,
+3,2010-06-01,,PA,45,18074,0,WILLIAMS FORK - CAMEO,,,,,,,,,,,,,,,,,,
+4,2010-05-01,1.0,PR,45,18074,0,WILLIAMS FORK - CAMEO,,,,,,,729.0,,,,729.0,1116.0,,,,,,
+5,2010-04-01,1.0,PR,45,18074,0,WILLIAMS FORK - CAMEO,,,,,,,1148.0,,,,1148.0,1116.0,,,,,,
+6,2010-03-01,3.0,PR,45,18074,0,WILLIAMS FORK - CAMEO,,,,,,,2042.0,,,,2042.0,1116.0,,,,,,
+7,2010-02-01,,DG,45,18074,0,WILLIAMS FORK - CAMEO,,,,,,,,,,,,,,,,,,
+8,2010-01-01,,DG,45,18074,0,WILLIAMS FORK - CAMEO,,,,,,,,,,,,,,,,,,

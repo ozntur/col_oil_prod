@@ -1,0 +1,13 @@
+,First of Month,Days Produced,Well Status,API County,API Sequence,API Sidetrack,Formation,BOM Inventory,Oil Produced,Oil Sold,Oil Adjustment,EOM Inventory,Oil Gravity,Gas Produced,Gas Flared,Gas Used,Gas Shrinkage,Gas Sold,Gas BTU,Gas Tubing Pressure,Gas Casing Pressure,Water Volume,Water Tubing Pressure,Water Casing Pressure,Water Disp Code
+0,1999-12-01,,SI,123,13947,0,CODELL,29,,,,29,,,,,,,,,,,,,
+1,1999-11-01,,SI,123,13947,0,CODELL,29,,,,29,,,,,,,,,,,,,
+2,1999-10-01,,SI,123,13947,0,CODELL,29,,,,29,,,,,,,,,,,,,
+3,1999-09-01,,SI,123,13947,0,CODELL,29,,,,29,,,,,,,,,,,,,
+4,1999-08-01,,SI,123,13947,0,CODELL,29,,,,29,,,,,,,,,,,,,
+5,1999-07-01,,SI,123,13947,0,CODELL,29,,,,29,,,,,,,,,,,,,
+6,1999-06-01,,SI,123,13947,0,CODELL,29,,,,29,,,,,,,,,,,,,
+7,1999-05-01,30.0,PR,123,13947,0,CODELL,29,,,,29,,,,,,,,,,,,,
+8,1999-04-01,,SI,123,13947,0,CODELL,29,,,,29,,,,,,,,,,,,,
+9,1999-03-01,,SI,123,13947,0,CODELL,29,,,,29,,,,,,,,,,,,,
+10,1999-02-01,,SI,123,13947,0,CODELL,6,,,,6,,,,,,,,,,,,,
+11,1999-01-01,,SI,123,13947,0,CODELL,29,,,,29,,,,,,,,,,,,,

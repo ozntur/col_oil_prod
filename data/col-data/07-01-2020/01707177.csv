@@ -1,0 +1,13 @@
+,First of Month,Days Produced,Well Status,API County,API Sequence,API Sidetrack,Formation,BOM Inventory,Oil Produced,Oil Sold,Oil Adjustment,EOM Inventory,Oil Gravity,Gas Produced,Gas Flared,Gas Used,Gas Shrinkage,Gas Sold,Gas BTU,Gas Tubing Pressure,Gas Casing Pressure,Water Volume,Water Tubing Pressure,Water Casing Pressure,Water Disp Code
+0,1999-12-01,,SI,17,7177,0,MORROW,,,,,,,,,,,,,0.0,0.0,,0.0,0.0,
+1,1999-11-01,,PA,17,7177,0,MORROW,,,,,,,,,,,,,0.0,0.0,,0.0,0.0,
+2,1999-10-01,,PA,17,7177,0,MORROW,,,,,,,,,,,,,0.0,0.0,,0.0,0.0,
+3,1999-09-01,,PA,17,7177,0,MORROW,,,,,,,,,,,,,0.0,0.0,,0.0,0.0,
+4,1999-08-01,,PA,17,7177,0,MORROW,,,,,,,,,,,,,0.0,0.0,,0.0,0.0,
+5,1999-07-01,,TA,17,7177,0,MORROW,,,,,,,,,,,,,,,,,,
+6,1999-06-01,,TA,17,7177,0,MORROW,,,,,,,,,,,,,,,,,,
+7,1999-05-01,,TA,17,7177,0,MORROW,,,,,,,,,,,,,,,,,,
+8,1999-04-01,,TA,17,7177,0,MORROW,,,,,,,,,,,,,,,,,,
+9,1999-03-01,,TA,17,7177,0,MORROW,,,,,,,,,,,,,,,,,,
+10,1999-02-01,,TA,17,7177,0,MORROW,,,,,,,,,,,,,,,,,,
+11,1999-01-01,,TA,17,7177,0,MORROW,,,,,,,,,,,,,,,,,,

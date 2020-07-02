@@ -1,0 +1,12 @@
+,First of Month,Days Produced,Well Status,API County,API Sequence,API Sidetrack,Formation,BOM Inventory,Oil Produced,Oil Sold,Oil Adjustment,EOM Inventory,Oil Gravity,Gas Produced,Gas Flared,Gas Used,Gas Shrinkage,Gas Sold,Gas BTU,Gas Tubing Pressure,Gas Casing Pressure,Water Volume,Water Tubing Pressure,Water Casing Pressure,Water Disp Code
+0,2001-12-01,,PA,123,14584,0,J SAND,,,,,,,,,,,,,,,,,,
+1,2001-11-01,,PA,123,14584,0,J SAND,,,,,,,,,,,,,,,,,,
+2,2001-10-01,,SI,123,14584,0,J SAND,,,,,,,,,,,,,,,,,,
+3,2001-09-01,,SI,123,14584,0,J SAND,,,,,,,,,,,,,,,,,,
+4,2001-08-01,,SI,123,14584,0,J SAND,,,,,,,,,,,,,,,,,,
+5,2001-07-01,,SI,123,14584,0,J SAND,,,,,,,,,,,,,,,,,,
+6,2001-06-01,5.0,PR,123,14584,0,J SAND,,,,,,,20.0,,,,20.0,1318.0,,,,,,
+7,2001-05-01,10.0,PR,123,14584,0,J SAND,,0.0,,0.0,,,,0.0,0.0,0.0,,,,,,,,
+8,2001-04-01,,SI,123,14584,0,J SAND,,,,,,,,,,,,,,,,,,
+9,2001-03-01,,SI,123,14584,0,J SAND,,,,,,,,,,,,,,,,,,
+10,2001-02-01,,SI,123,14584,0,J SAND,,,,,,,,,,,,,,,,,,

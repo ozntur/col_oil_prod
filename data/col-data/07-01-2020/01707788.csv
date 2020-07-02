@@ -1,0 +1,11 @@
+,First of Month,Days Produced,Well Status,API County,API Sequence,API Sidetrack,Formation,BOM Inventory,Oil Produced,Oil Sold,Oil Adjustment,EOM Inventory,Oil Gravity,Gas Produced,Gas Flared,Gas Used,Gas Shrinkage,Gas Sold,Gas BTU,Gas Tubing Pressure,Gas Casing Pressure,Water Volume,Water Tubing Pressure,Water Casing Pressure,Water Disp Code
+0,2015-01-01,,PA,17,7788,0,SPERGEN,,,,,,,,,,,,,,,,,,
+1,2014-12-01,,PA,17,7788,0,SPERGEN,,,,,,,,,,,,,,,,,,
+2,2014-11-01,,PA,17,7788,0,SPERGEN,,,,,,,,,,,,,,,,,,
+3,2014-10-01,,AB,17,7788,0,SPERGEN,,,,,,,,,,,,,,,,,,
+4,2014-09-01,,WO,17,7788,0,SPERGEN,,,,,,,,,,,,,,,,,,
+5,2014-09-01,,WO,17,7788,0,SHAWNEE,,,,,,,,,,,,,,,,,,
+6,2014-08-01,,WO,17,7788,0,SHAWNEE,,,,,,,,,,,,,,,,,,
+7,2014-08-01,,WO,17,7788,0,SPERGEN,,,,,,,,,,,,,,,,,,
+8,2014-07-01,,WO,17,7788,0,SPERGEN,,,,,,,,,,,,,,,,,,
+9,2014-06-01,,DG,17,7788,0,SPERGEN,,,,,,,,,,,,,,,,,,

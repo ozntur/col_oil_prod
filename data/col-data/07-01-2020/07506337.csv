@@ -1,0 +1,7 @@
+,First of Month,Days Produced,Well Status,API County,API Sequence,API Sidetrack,Formation,BOM Inventory,Oil Produced,Oil Sold,Oil Adjustment,EOM Inventory,Oil Gravity,Gas Produced,Gas Flared,Gas Used,Gas Shrinkage,Gas Sold,Gas BTU,Gas Tubing Pressure,Gas Casing Pressure,Water Volume,Water Tubing Pressure,Water Casing Pressure,Water Disp Code
+0,1999-03-01,,PA,75,6337,0,DAKOTA,,,,,,,,,,,,,,,,,,
+1,1999-03-01,,PA,75,6337,0,MUDDY,,,,,,,,,,,,,,,,,,
+2,1999-02-01,,SI,75,6337,0,MUDDY,,,,,,,,,,,,,,,,,,
+3,1999-02-01,,SI,75,6337,0,DAKOTA,,,,,,,,,,,,,,,,,,
+4,1999-01-01,,SI,75,6337,0,DAKOTA,,,,,,,,,,,,,,,,,,
+5,1999-01-01,,SI,75,6337,0,MUDDY,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,9 @@
+,First of Month,Days Produced,Well Status,API County,API Sequence,API Sidetrack,Formation,BOM Inventory,Oil Produced,Oil Sold,Oil Adjustment,EOM Inventory,Oil Gravity,Gas Produced,Gas Flared,Gas Used,Gas Shrinkage,Gas Sold,Gas BTU,Gas Tubing Pressure,Gas Casing Pressure,Water Volume,Water Tubing Pressure,Water Casing Pressure,Water Disp Code
+0,2020-04-01,30,PR,123,49936,0,NOT COMPLETED,3.0,16922.0,16917.0,,8.0,63.8,25176.0,,1034.0,,24142.0,1522.0,,,11734.0,,,C
+1,2020-03-01,28,PR,123,49936,0,NOT COMPLETED,,7585.0,7582.0,,3.0,62.5,9332.0,,470.0,,8862.0,1473.0,,,14237.0,,,C
+2,2020-02-01,0,WO,123,49936,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,
+3,2020-01-01,0,WO,123,49936,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,
+4,2019-12-01,0,WO,123,49936,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,
+5,2019-11-01,0,WO,123,49936,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,
+6,2019-10-01,0,WO,123,49936,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,
+7,2019-09-01,0,WO,123,49936,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,

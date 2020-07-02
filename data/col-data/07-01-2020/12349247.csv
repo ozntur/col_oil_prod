@@ -1,0 +1,15 @@
+,First of Month,Days Produced,Well Status,API County,API Sequence,API Sidetrack,Formation,BOM Inventory,Oil Produced,Oil Sold,Oil Adjustment,EOM Inventory,Oil Gravity,Gas Produced,Gas Flared,Gas Used,Gas Shrinkage,Gas Sold,Gas BTU,Gas Tubing Pressure,Gas Casing Pressure,Water Volume,Water Tubing Pressure,Water Casing Pressure,Water Disp Code
+0,2020-03-01,30,PR,123,49247,0,NIOBRARA,5.0,12962.0,12963.0,1.0,5.0,41.7,47056.0,,29.0,,47027.0,1416.0,,,3056.0,,,M
+1,2020-02-01,29,PR,123,49247,0,NIOBRARA,5.0,18003.0,18003.0,,5.0,44.0,40785.0,,28.0,,40757.0,1423.0,,,4641.0,,,M
+2,2020-01-01,31,PR,123,49247,0,NIOBRARA,5.0,22639.0,22639.0,,5.0,43.1,34570.0,,30.0,,34540.0,1415.0,,,7729.0,,,M
+3,2019-12-01,31,PR,123,49247,0,NIOBRARA,4.0,13743.0,13742.0,,5.0,45.0,21148.0,,30.0,,21118.0,1453.0,,,5155.0,,,M
+4,2019-11-01,24,PR,123,49247,0,NIOBRARA,,2634.0,2630.0,,4.0,40.0,3932.0,,23.0,,3909.0,1433.0,,,8225.0,,,M
+5,2019-10-01,0,WO,123,49247,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,
+6,2019-09-01,0,WO,123,49247,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,
+7,2019-08-01,0,WO,123,49247,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,
+8,2019-07-01,0,DG,123,49247,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,
+9,2019-06-01,0,WO,123,49247,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,
+10,2019-05-01,0,WO,123,49247,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,
+11,2019-04-01,0,WO,123,49247,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,
+12,2019-03-01,0,WO,123,49247,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,
+13,2019-02-01,0,DG,123,49247,0,NOT COMPLETED,,,,,,,,,,,,,,,,,,
